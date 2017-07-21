@@ -1,0 +1,3 @@
+[submodule "HypeFrameworkBinding"]
+	path = HypeFrameworkBinding
+	url = https://github.com/askgoliath/HypeFrameworkBinding
